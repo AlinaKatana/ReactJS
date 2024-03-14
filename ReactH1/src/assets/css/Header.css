@@ -1,0 +1,21 @@
+#header {
+    background-color: #fff5fb;
+    padding: 20px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 3px solid #3b2232; 
+}
+  .naslov {
+    font-size: 36px;
+    color: #3b2232;
+    margin-bottom: 10px;
+    font-stretch:ultra-expanded;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #7a6d73;
+    margin-top: 0;
+    font-weight: 100;
+  }
+  
